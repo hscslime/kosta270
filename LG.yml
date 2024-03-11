@@ -1,10 +1,6 @@
 team: LG
 
-<<<<<<< HEAD
-manager: 수정됨
-=======
 manager: 김길동
->>>>>>> conflict-2
 
 members:
 - 고우석
